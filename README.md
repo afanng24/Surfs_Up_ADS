@@ -40,7 +40,7 @@ As this is a surf and ice cream shop the other determining factor when it comes 
 ![decrains](https://user-images.githubusercontent.com/82983000/122288811-ffc35980-cebf-11eb-9a22-448fdb70edf9.png)
 
 
-
+From the additional charts we can see that rain is not prominent on the island of Oahu and therefore should not cause too much of a problem for the ice cream surf shop. 
 
 
 
